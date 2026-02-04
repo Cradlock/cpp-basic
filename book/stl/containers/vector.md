@@ -23,7 +23,7 @@ vector<int> ...;
 
 1. Пустой вектор 
 ```
-std:;vector<int> v1;
+std::vector<int> v1;
 ```
 
 2.  Копия другого вектора

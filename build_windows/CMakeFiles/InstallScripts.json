@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/grok/Dopen/cpp-basic/build_windows/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

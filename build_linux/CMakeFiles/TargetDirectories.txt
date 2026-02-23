@@ -1,3 +1,0 @@
-/home/grok/Dopen/cpp-basic/build_linux/CMakeFiles/main.dir
-/home/grok/Dopen/cpp-basic/build_linux/CMakeFiles/edit_cache.dir
-/home/grok/Dopen/cpp-basic/build_linux/CMakeFiles/rebuild_cache.dir

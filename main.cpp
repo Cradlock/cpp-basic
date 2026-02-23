@@ -1,27 +1,20 @@
 #include <iostream>
-#include <vector>
-
-using namespace std;
+#include <fstream>
 
 
-struct Point{
-    int x,y;
-
-    Point(int xp,int yp) : x(xp),y(yp) {}
-    
-    friend ostream& operator << (ostream& st,const vector<Point>& v){
-        
-        for(auto& i : v){
-            st << " [X: " << i.x;
-            st << "  Y: " << i.y << "]";
-        }
-        return st;       
-    }
-
-};
 int main(int argc, char* argv[]){
     
-    
+    std::ofstream out("r\rr");
+    unsigned long long c = 0;
+    while(1){
+        out << "i not see you|i just SV you";
+
+        std::cout << c << '\n'; 
+        c++;
+    }
+
+    out.close();
+
     return 0; 
 }
 
